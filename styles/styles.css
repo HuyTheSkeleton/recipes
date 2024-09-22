@@ -1,17 +1,26 @@
+* {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
 .title {
     color: white;
     background-color: black;
     text-align: center;
 }
-
 p {
     color: rgb(217, 83, 0);
 }
-
+.butto:hover {
+    background-color: pink;
+    color:blue;
+    cursor: pointer;
+    transition-duration: 0.4s;
+}
 .edit {
     color: rgb(174, 14, 14)
 }
-
+.view-code {
+    text-decoration: none;
+}
 .return {
     text-align: center;
     font-size: 30px;
