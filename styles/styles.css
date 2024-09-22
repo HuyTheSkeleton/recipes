@@ -1,0 +1,18 @@
+.title {
+    color: white;
+    background-color: black;
+    text-align: center;
+}
+
+p {
+    color: rgb(217, 83, 0);
+}
+
+.edit {
+    color: rgb(174, 14, 14)
+}
+
+.return {
+    text-align: center;
+    font-size: 30px;
+}
